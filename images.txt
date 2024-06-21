@@ -8,3 +8,4 @@ xhofe/alist:latest
 ## docker image for myself
 ghcr.io/open-webui/open-webui:latest
 networkstatic/iperf3
+postgres
