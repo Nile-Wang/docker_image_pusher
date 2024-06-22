@@ -6,6 +6,6 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ## docker image for myself
-ghcr.io/open-webui/open-webui:latest
+--platform=linux/arm64 ghcr.io/open-webui/open-webui:latest
+--platform=linux/arm64 postgres
 networkstatic/iperf3
-postgres
